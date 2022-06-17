@@ -1,0 +1,18 @@
+
+.titulo{
+  text-align: center;
+  font-size: 8rem;
+  margin-bottom: 2rem;
+  color: #303030;
+}
+.btn{
+  cursor: pointer;
+  border: none;
+  padding: .5rem 1.5rem;
+  font-size: 1.5rem;
+  transition:  100ms ease-in;
+  color: #303030;
+}
+.btn:hover{
+  background: #D9D9D9;
+}
